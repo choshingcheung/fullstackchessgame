@@ -1,6 +1,6 @@
 ﻿# Full Stack Chess Game
 
-A full-stack web application for playing chess online.
+A full-stack web application for playing chess online. This project offers a smooth and interactive experience for users, allowing them to authenticate, create games, join existing games, and play chess in real-time against other players. Built with a Python-based Flask backend and a React frontend, it leverages real-time updates and uses the chess library for move validation and game management.
 
 ![Chess Game Screenshot](screenshot.png)
 
